@@ -5,4 +5,5 @@
     <string name="decidingText">Deciding…</string>
     <string name="done">Done!</string>
     <string name="test">test</string>
+    <string name="locationTv"></string>
 </resources>
